@@ -8,6 +8,7 @@
 <body>
 <main class="container">
 <p class="date"><strong>Última actualización:</strong> 3 de septiembre de 2026</p>
+<tittle>POLITICAS Y PRIVACIDAD DE NUBEFOTO </tittle>
 
 <div class="important">
 <strong>Resumen:</strong> NubeFoto permite guardar, organizar y editar fotografías.
