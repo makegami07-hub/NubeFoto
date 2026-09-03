@@ -4,11 +4,24 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Política de Privacidad de NubeFoto - Guarda, organiza y edita tus fotografías.">
+<title>Política de Privacidad - NubeFoto</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#f4f6f8;color:#222}
+.container{max-width:900px;margin:0 auto;background:#fff;padding:30px;border-radius:14px;box-shadow:0 2px 12px rgba(0,0,0,.08)}
+h1{margin-top:0;font-size:30px;line-height:1.25}
+h2{margin-top:28px;font-size:21px;line-height:1.3}
+.date{color:#666}
+.important{padding:16px;margin:20px 0;border-radius:10px;background:#f0f3f6}
+li{margin-bottom:8px}
+footer{margin-top:35px;padding-top:20px;border-top:1px solid #ddd;color:#666;font-size:14px}
+@media(max-width:600px){body{padding:10px}.container{padding:20px}h1{font-size:25px}}
+</style>
 </head>
 <body>
 <main class="container">
+<h1>📷 Política de Privacidad de NubeFoto</h1>
 <p class="date"><strong>Última actualización:</strong> 3 de septiembre de 2026</p>
-<tittle>POLITICAS Y PRIVACIDAD DE NUBEFOTO </tittle>
 
 <div class="important">
 <strong>Resumen:</strong> NubeFoto permite guardar, organizar y editar fotografías.
@@ -97,4 +110,3 @@ para proporcionar estos servicios.
 </main>
 </body>
 </html>
-privacy.html
