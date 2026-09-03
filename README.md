@@ -7,7 +7,6 @@
 </head>
 <body>
 <main class="container">
-<h1>📷 Política de Privacidad de NubeFoto</h1>
 <p class="date"><strong>Última actualización:</strong> 3 de septiembre de 2026</p>
 
 <div class="important">
