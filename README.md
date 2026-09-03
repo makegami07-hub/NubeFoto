@@ -4,8 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Política de Privacidad de NubeFoto - Guarda, organiza y edita tus fotografías.">
-<title>Política de Privacidad - NubeFoto</title>
-<style>
 </head>
 <body>
 <main class="container">
